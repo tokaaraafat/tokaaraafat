@@ -1,16 +1,143 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**tokaaraafat/tokaaraafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=1000&color=2E86AB&center=true&vCenter=true&width=640&height=50&lines=Hi%2C+I'm+Tokaa+Raafat;Computer+%26+Information+Science+Graduate;Data+Analysis+%E2%86%92+Data+Science+%26+ML" alt="Typing animation" />
 
-Here are some ideas to get you started:
+**Computer science background, building my way into data science.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E86AB?style=flat&logo=githubpages&logoColor=white)](https://tokaaraafat.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-tokaaraafat-181717?style=flat&logo=github&logoColor=white)](https://github.com/tokaaraafat)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I graduated in 2024 with a degree in **Computer and Information Science** from Sadat Academy for Management Sciences. My programming background gave me a solid technical foundation, and I've been focusing on data analysis and data science ever since.
+
+I enjoy working with data, whether it's collecting it, cleaning it, exploring it with Python and SQL, or trying to understand the patterns behind it. I'm currently building my knowledge of statistics and machine learning and applying what I learn through projects.
+
+I like to understand a dataset properly before jumping into analysis or modeling. Most of the real work happens there.
+
+---
+
+## 🎯 What I'm Working On
+
+| | |
+|---|---|
+| 🎓 **Program** | Digital Egypt Pioneers Initiative (DEPI) — Data Scientist Track by IBM |
+| 📅 **Duration** | July 2026 – December 2026 |
+| 📚 **Learning** | Regression techniques, statistical analysis, model evaluation, and Scikit-learn |
+| 🔨 **Practicing** | Applying what I learn through data projects and improving my analysis workflow |
+
+---
+
+## 📂 Selected Projects
+
+### 📈 Tesla & GameStop: Stock Performance & Revenue Analysis
+
+*Individual project*
+
+An analysis exploring historical stock performance and quarterly revenue trends for Tesla and GameStop. I collected the data, prepared it for analysis, explored the trends, and built an interactive application to present the results.
+
+- Collected historical stock prices using **yfinance**
+- Extracted quarterly revenue data through web scraping with **BeautifulSoup**
+- Cleaned and prepared datasets using **Pandas**
+- Explored and compared stock performance and revenue trends
+- Created visualizations using **Matplotlib** and **Plotly**
+- Built an interactive dashboard using **Streamlit**
+
+**Focus:** Data collection, cleaning, exploratory analysis, visualization, and presenting findings.
+
+`Python` `Pandas` `yfinance` `BeautifulSoup` `Matplotlib` `Plotly` `Streamlit`
+
+---
+
+### 🚲 Bike-Sharing Data Analysis
+
+*Team project*
+
+A collaborative analysis of a large bike-sharing dataset, exploring usage patterns and rider behavior. I worked with the team on querying and aggregating the data using **SQLite**, investigating data quality, and analyzing the results with Python.
+
+- Wrote SQL queries to filter and aggregate the dataset
+- Investigated missing values and duplicate records
+- Examined trip durations and ride patterns
+- Compared member and casual rider behavior
+- Explored the relationship between weather conditions and demand
+- Used Python and Pandas for further analysis and visualization
+
+`SQL` `SQLite` `Python` `Pandas` `Matplotlib` `Seaborn`
+
+---
+
+## 🧰 My Toolkit
+
+| Area | Technologies & Methods |
+|---|---|
+| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
+| **SQL** | Joins, aggregations, subqueries, window functions, SQLite |
+| **Excel** | Advanced formulas, Pivot Tables, data cleaning, Power Query |
+| **Data Collection** | BeautifulSoup, Web Scraping, yfinance |
+| **Statistics & ML** | Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, residual analysis, basic model evaluation, Scikit-learn fundamentals |
+| **Tools** | Jupyter Notebook, Google Colab, Streamlit, Git, GitHub |
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🔍 How I Approach a Dataset
+
+1. **Look first.** Understand the dataset structure, check data types, and look for missing values and duplicates.
+2. **Clean and validate.** Handle data quality issues and make sure the data is consistent before using it.
+3. **Ask questions.** Explore the data with SQL and Python to find patterns, compare groups, and investigate relationships.
+4. **Show it.** Choose visuals that make the finding clear, not just good-looking.
+5. **Model carefully.** Apply statistical and regression methods when they make sense, then evaluate the results and examine residuals.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tokaaraafat&show_icons=true&hide_border=true&theme=default&title_color=2E86AB&icon_color=2E86AB" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokaaraafat&layout=compact&hide_border=true&theme=default&title_color=2E86AB" alt="Top languages" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Computer and Information Science**
+
+Sadat Academy for Management Sciences  
+2024
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning from others, working on interesting data projects, and connecting with people in the Data Science field.
+
+- 🌐 **Portfolio:** [Visit my portfolio](https://tokaaraafat.github.io/portfolio)
+- 💼 **LinkedIn:** [Tokaa Raafat](YOUR_LINKEDIN_URL)
+- 🐙 **GitHub:** [@tokaaraafat](https://github.com/tokaaraafat)
+
+<div align="center">
+
+<sub>Thanks for stopping by! 💙</sub>
+
+</div>
