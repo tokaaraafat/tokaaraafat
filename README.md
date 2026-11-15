@@ -14,9 +14,7 @@
 
 ## 👋 Hi, I'm Tokaa Raafat
 
-#About Me
-
-I studied **Computer and Information Science** at Sadat Academy for Management Sciences, then spent a year working as an ERP developer. Since then, I've been moving toward data, learning Python, SQL, and Excel through analysis projects, while developing my Data Science skills through DEPI in collaboration with IBM.
+I gratuated with a degree in **Computer and Information Science** from Sadat Academy for Management Sciences, After spending a year working as an ERP developer. Since then, I've been moving toward data, learning Python, SQL, and Excel through analysis projects, while developing my Data Science skills through DEPI in collaboration with IBM.
 
 Collecting data, cleaning it, and digging into it to see what's actually there. Statistics and machine learning are the next layer I'm building on top of that.
 
