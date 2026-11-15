@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=1000&color=2E86AB&center=true&vCenter=true&width=640&height=50&lines=Hi%2C+I'm+Tokaa;Data+Analyst+growing+into+Data+Science" alt="Typing animation" />
@@ -13,7 +12,9 @@
 
 ---
 
-## 👋 About Me
+## 👋 Hi, I'm Tokaa Raafat
+
+#About Me
 
 I studied **Computer and Information Science** at Sadat Academy for Management Sciences, then spent a year working as an ERP developer. Since then, I've been moving toward data, learning Python, SQL, and Excel through analysis projects, while developing my Data Science skills through DEPI in collaboration with IBM.
 
