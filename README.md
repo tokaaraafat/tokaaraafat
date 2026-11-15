@@ -127,17 +127,6 @@ A collaborative analysis of a large bike-sharing dataset, exploring usage patter
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tokaaraafat&show_icons=true&hide_border=true&theme=default&title_color=2E86AB&icon_color=2E86AB" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokaaraafat&layout=compact&hide_border=true&theme=default&title_color=2E86AB" alt="Top languages" />
-
-</div>
-
----
-
 ## 🎓 Education
 
 **B.Sc. in Computer and Information Science**
