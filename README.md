@@ -14,7 +14,7 @@
 
 ## 👋 Hi, I'm Tokaa Raafat
 
-I gratuated with a degree in **Computer and Information Science** from Sadat Academy for Management Sciences, After spending a year working as an ERP developer. Since then, I've been moving toward data, learning Python, SQL, and Excel through analysis projects, while developing my Data Science skills through DEPI in collaboration with IBM.
+Gratuated with a degree in **Computer and Information Science** from Sadat Academy for Management Sciences, After spending a year working as an ERP developer. Since then, I've been moving toward data, learning Python, SQL, and Excel through analysis projects, while developing my Data Science skills through DEPI in collaboration with IBM.
 
 Collecting data, cleaning it, and digging into it to see what's actually there. Statistics and machine learning are the next layer I'm building on top of that.
 
@@ -34,24 +34,6 @@ I like to understand a dataset properly before jumping into analysis or modeling
 ---
 
 ## 📂 Data Analysis Projects
-
-### 🛒 Olist E-Commerce: Customer Retention & Value Analysis
-
-*Team project*
-
-A collaborative analysis of the Olist Brazilian e-commerce dataset (approximately 100K orders), exploring customer retention and what drives customer value. I worked with the team on loading the data into SQLite, querying it with SQL, cleaning it with Python, and developing machine learning models.
-
-- Loaded the nine Olist tables into SQLite and wrote SQL queries using joins, CTEs, and window functions to filter and aggregate the data.
-- Investigated missing values and duplicate records, including around 3,000 orders with no delivery date.
-- Measured the repeat-purchase rate (approximately 3% of customers place another order) and the time between a customer's first and second order.
-- Tracked customers using `customer_unique_id`, since `customer_id` changes with every order.
-- Explored how first-order characteristics, including payment, delivery, and review scores, relate to customer value.
-- Explored feature engineering and regression-based approaches to understand and predict customer value.
-- Used Python and Pandas for data cleaning, feature engineering, and analysis.
-
-`SQL` `SQLite` `Python` `Pandas` `Scikit-learn`
-
----
 
 ### 📈 Tesla & GameStop: Stock Performance & Revenue Analysis
 
@@ -113,16 +95,6 @@ A collaborative analysis of a large bike-sharing dataset, exploring usage patter
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 🔍 How I Approach a Dataset
-
-1. **Look first.** Understand the dataset structure, check data types, and look for missing values and duplicates.
-2. **Clean and validate.** Handle data quality issues and make sure the data is consistent before using it.
-3. **Ask questions.** Explore the data with SQL and Python to find patterns, compare groups, and investigate relationships.
-4. **Show it.** Choose visuals that make the finding clear, not just good-looking.
-5. **Model carefully.** Apply statistical and regression methods when they make sense, then evaluate the results and examine residuals.
 
 ---
 
